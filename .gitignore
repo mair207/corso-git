@@ -1,0 +1,5 @@
+#assassini dir
+maledetti 
+#uccisioni files 
+*.log
+!debug.log
